@@ -2,7 +2,7 @@
 
 # Project Title
 
-A Simple ToDo Android App which displasy your day to day task according to its priority saves it in the Database which is created using RoomDB.
+A Simple ToDo Android App which display your day to day task according to its priority saves it in the Database which is created using RoomDB.
 
 # Screen Shots
 # 1) Splash Screen
