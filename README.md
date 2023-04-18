@@ -75,7 +75,7 @@ ToDoAPP is a simple Android app that helps you manage your day-to-day tasks base
 
 ## Project status
 
-ToDoAPP is a completed project that I created as a personal challenge to practice my web development skills. I may add some additional features or improvements in the future, such as:
+ToDoAPP is a completed project that I created as a personal challenge to practice my skills. I may add some additional features or improvements in the future, such as:
 
 - Adding due dates for tasks
 - Sorting tasks by different criteria
