@@ -81,6 +81,6 @@ ToDoAPP is a completed project that I created as a personal challenge to practic
 - Sorting tasks by different criteria
 - Syncing tasks data with a backend server or a cloud service
 
-![Twitter Follow](https://img.shields.io/twitter/follow/ankit_parida_?style=social)
-![GitHub followers](https://img.shields.io/github/followers/Ankit6989?style=social)
-![Instagram Follow](https://img.shields.io/instagram/follow/ankitparida_250?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ankit_parida_?style=social)](https://twitter.com/ankit_parida_)
+[![GitHub followers](https://img.shields.io/github/followers/Ankit6989?style=social)](https://github.com/Ankit6989)
+[![Instagram Follow](https://img.shields.io/instagram/follow/ankitparida_250?style=social)](https://www.instagram.com/ankitparida_250/)
