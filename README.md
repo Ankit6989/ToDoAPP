@@ -22,20 +22,13 @@ ToDoAPP is a simple Android app that helps you manage your day-to-day tasks base
 
 <img src="https://user-images.githubusercontent.com/114300894/225527362-7d091662-95d4-4343-bf65-7cefa079cf5e.jpeg" width="200">
 
-## Technologies
+## Technologies Used
 
 1. Kotlin
-2. RoomDB
-3. MVVM Architecture
-4. LiveData
-5. ViewModel
-6. Coroutines
-7. Data Binding
-8. Navigation Component
-9. Material Design
-10. Constraint Layout
-11. RecyclerView Layout
-12. Android SDK
+2. Coroutines
+3. RoomDB
+4. Android SDK
+
 ## Installation
 
 1. Clone the repository to your local machine using `git clone https://github.com/Ankit6989/ToDoAPP.git`.
@@ -60,18 +53,23 @@ ToDoAPP is a simple Android app that helps you manage your day-to-day tasks base
 
 7. To delete a task, click on the task in the main screen, and click on the `Delete` button to delete the task.
 
-<!-- create contribution guidelines for this project -->
 ## Bug Reports and Feature Requests
 
 1. If you find a bug, please report it by opening a new issue.
+
 2. If you would like to request a new feature, please open a new issue.
+
 3. Please do not use the issue tracker for personal support requests.
+
 4. Please do not derail or troll issues. Keep the discussion on topic and respect the opinions of others.
+
 5. Please do not open issues regarding the security of the project. Instead, please send an email to `ankitparida9@gmail.com` and I will address the issue as soon as possible.
+
 6. Please do not open pull requests that add new features without first getting our support. Similarly, do not open pull requests that refactors the project in a major way without first getting our support.
+
 7. Please do not open pull requests that fix bugs without first opening an issue describing the bug and getting our support.
+
 8. Please do not open pull requests that fix typos or add new comments without first getting our support.
-9. Please do not open pull requests that update dependencies without first getting our support.
 
 ## Project status
 
@@ -81,5 +79,4 @@ ToDoAPP is a completed project that I created as a personal challenge to practic
 - Sorting tasks by different criteria
 - Syncing tasks data with a backend server or a cloud service
 
-[![Twitter ankit_parida_](https://img.shields.io/twitter/follow/ankit_parida_?style=social)](https://twitter.com/ankit_parida_)
-[![GitHub Ankit6989](https://img.shields.io/github/followers/Ankit6989?style=social)](https://github.com/Ankit6989)
+## Contact
