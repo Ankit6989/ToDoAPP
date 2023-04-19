@@ -65,11 +65,9 @@ ToDoAPP is a simple Android app that helps you manage your day-to-day tasks base
 
 5. Please do not open issues regarding the security of the project. Instead, please send an email to `ankitparida9@gmail.com` and I will address the issue as soon as possible.
 
-6. Please do not open pull requests that add new features without first getting our support. Similarly, do not open pull requests that refactors the project in a major way without first getting our support.
+6. Please do not open pull requests that fix bugs without first opening an issue describing the bug and getting our support.
 
-7. Please do not open pull requests that fix bugs without first opening an issue describing the bug and getting our support.
-
-8. Please do not open pull requests that fix typos or add new comments without first getting our support.
+7. Please do not open pull requests that fix typos or add new comments without first getting our support.
 
 ## Project status
 
@@ -79,4 +77,4 @@ ToDoAPP is a completed project that I created as a personal challenge to practic
 - Sorting tasks by different criteria
 - Syncing tasks data with a backend server or a cloud service
 
-## Contact
+## Connect with me
