@@ -2,7 +2,7 @@
 
 ## Project Description
 
-ToDoAPP is a simple Android app that helps you manage your day-to-day tasks based on their priority. The app uses RoomDB to store and retrieve tasks.
+The ToDoApp is a straightforward Android application designed to assist users in managing their day-to-day tasks based on their priority. The app utilizes Kotlin, Coroutines, RoomDB, and the Android SDK to provide an efficient and user-friendly task management experience.
 
 ## Screenshots
 
